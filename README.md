@@ -1,8 +1,7 @@
 # Welcome to Anibulus Resume 
 
 
-- 🔭 I’m currently working on My portfolio and this Readme
-- 🌱 I’m currently learning **CSS3**
+- 🌱 I’m currently learning **CSS3** and **Python**
 - ⚡ Fun fact:  I have been  using gitlab instead github all this time.
 
 ## Abstract :
