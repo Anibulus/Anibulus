@@ -1,25 +1,17 @@
+
 # Welcome to Anibulus Resume 
 
 
-- 🔭 I’m currently working on My portfolio and this Readme
-- 🌱 I’m currently learning **CSS3**
-- ⚡ Fun fact:  I have been  using gitlab instead github all this time.
-
-## Abstract :
+- 📖 I’m currently learning **CSS3**
+## ✨Abstract :
 
 Hello! I'm Luis Antonio Preza.
-You can call me "Anibulus" I live in Guadalajara, Jal. in México. 
+You can call me "Anibulus" I live in Jalisco, México. 
 I'm a Technical, but I'm studing Engineering on TI in Universidad Tecnológica de Jalisco (**UTJ**).
 
 ## Technology Stack
 ### Frontend
 
-<!--CSS3 (flex and grid )
-Javascript
-    Bootstrap
-    Materialise CSS
-    Gulp
--->
 - HTML5
 - Jquery
     
@@ -27,28 +19,35 @@ Javascript
 
 - PHP
 - C#
+- Python
+- Java
 
-## Work Experience
+### Frameworks
+
+- ASP.Net
+
+## ✔️Work Experience
 
 **UTJ** - working as FullStack Dev
 
     Handling the frontend and backend part of the project.
 
-<!--## Projects
-### Personal Portfolio 
+**Acumuladores Garza** - working as Backend Developer
 
-It is 100% PWA user can install it via chrome after installation work like native app
-it can work offline with the help of sercice worker
-Language used: HTML ,CSS ,Matrailize, JS
--->
-## CERTIFICATE AND ACHIEVEMENTS
+    My team an I use the business logic to automate all the process of inventory, supliers and sales.
 
-- OOP course from Platzi
-- HTML5 course from UDEMY
+## 🏆CERTIFICATE AND ACHIEVEMENTS
+
+- Regular Expressions
 - Git and Github course from Platzi
-- Descriprive stadistics from **UTJ**
+- DevOps on GitLab
+- OOP course from Platzi
+- C# Basics
+- C# and ASP.Net Professional Course 2016
+- HTML5 course from UDEMY
+- Descriptive stadistics from **UTJ**
 
-## EDUCATION
+## 🎓EDUCATION
 |Schoolarity|Institute|
 |-----------|-----|
 |Mid Chool|Instituto América Centro|
@@ -56,11 +55,10 @@ Language used: HTML ,CSS ,Matrailize, JS
 |Technical|Universidad Tecnológica de Jalisco|
 |Engineering (in progress)|Universidad Tecnológica de Jalisco|
 
-
 ## CONTACTS
 
-Email- anibulusnn@gmail.com
+Email - anibulusnn@gmail.com
 
-[LinkedIn](https://www.linkedin.com/in/luis-antonio-preza-padilla-5aa1b6188/)
+[LinkedIn](www.linkedin.com/in/anibulus)
 
-[Portfolio](https://anibulus.github.io/)
+[💼 Portfolio](https://anibulus.github.io/)
