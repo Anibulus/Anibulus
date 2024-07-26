@@ -19,7 +19,7 @@ Soy un desarrollador apasionado con una sólida base en Python y C#, con experie
 
 🔗 Enlaces y proyectos:
 
-- [Perfil de LinkedIn](www.linkedin.com/in/anibulus)
+- [Perfil de LinkedIn](https://www.linkedin.com/in/anibulus)
 
 📚 Siempre aprendiendo:
 El aprendizaje continuo es fundamental para mí. Además de mi formación formal, sigo explorando nuevas tecnologías, participando en proyectos interesantes y colaborando con la comunidad de desarrolladores.
