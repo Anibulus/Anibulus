@@ -6,20 +6,20 @@ Soy un desarrollador apasionado con una sólida base en Python y C#, con experie
 
 🚀 Áreas de especialización:
 
-    Backend Development: Desarrollo y optimización de APIs, gestión de bases de datos, y diseño de arquitecturas escalables.
-    Videojuegos: Creación de juegos y simulaciones utilizando Godot y Unity. Me encanta transformar ideas creativas en experiencias interactivas y envolventes.
-    Lenguajes y Tecnologías: Amplia experiencia con Python, C#. Experto en el uso de ASP.NET para aplicaciones web y Entity Framework para el acceso a datos en .NET.
+- Backend Development: Desarrollo y optimización de APIs, gestión de bases de datos, y diseño de arquitecturas escalables.
+- Videojuegos: Creación de juegos y simulaciones utilizando Godot y Unity. Me encanta transformar ideas creativas en experiencias interactivas y envolventes.
+- Lenguajes y Tecnologías: Amplia experiencia con Python, C#. Experto en el uso de ASP.NET para aplicaciones web y Entity Framework para el acceso a datos en .NET.
 
 💡 Intereses y habilidades adicionales:
 
-    Desarrollo y optimización de APIs RESTful y microservicios.
-    Integración y trabajo con SQL Server y otras tecnologías de bases de datos.
-    Experiencia en metodologías ágiles como SCRUM para la gestión de proyectos.
-    Control de versiones utilizando Git y plataformas como GitHub para colaborar y compartir código.
+- Desarrollo y optimización de APIs RESTful y microservicios.
+- Integración y trabajo con SQL Server y otras tecnologías de bases de datos.
+- Experiencia en metodologías ágiles como SCRUM para la gestión de proyectos.
+- Control de versiones utilizando Git y plataformas como GitHub para colaborar y compartir código.
 
 🔗 Enlaces y proyectos:
 
-    [Perfil de LinkedIn](www.linkedin.com/in/anibulus)
+- [Perfil de LinkedIn](www.linkedin.com/in/anibulus)
 
 📚 Siempre aprendiendo:
 El aprendizaje continuo es fundamental para mí. Además de mi formación formal, sigo explorando nuevas tecnologías, participando en proyectos interesantes y colaborando con la comunidad de desarrolladores.
